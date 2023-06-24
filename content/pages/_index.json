@@ -240,7 +240,7 @@
 		{
 			"name": "blog",
 			"fields": {
-				"title": "Latest Articles Updated Weekly",
+				"title": "Latest Articles",
 				"body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
 				"items": [
 					{
@@ -253,7 +253,7 @@
 							"alt": "2022 Local SEO Success: The Year of Everywhere"
 						},
 						"publish": {
-							"date": "June 02 2023",
+							"date": "June 02, 2023",
 							"icon": ""
 						},
 						"author": {
@@ -277,7 +277,7 @@
 							"alt": "The Guide to Running a Client Discovery Process"
 						},
 						"publish": {
-							"date": "June 03 2023",
+							"date": "June 03, 2023",
 							"icon": ""
 						},
 						"author": {
@@ -301,7 +301,7 @@
 							"alt": "3 Ways to Get Client Approval for Scope Changes"
 						},
 						"publish": {
-							"date": "June 04 2023",
+							"date": "June 04, 2023",
 							"icon": ""
 						},
 						"author": {
@@ -325,7 +325,7 @@
 							"alt": "Top 21 Must-Read Blogs For Creative Agencies"
 						},
 						"publish": {
-							"date": "June 05 2023",
+							"date": "June 05, 2023",
 							"icon": ""
 						},
 						"author": {

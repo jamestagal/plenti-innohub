@@ -2,7 +2,8 @@
 	"build": "public",
 	"routes": {
 		"pages": ":filename",
-		"services": "service/:filename"
+		"services": "service/:filename",
+		"posts": "blog/:filename"
 	},
 	"baseurl": "/inno-hub/",
 	"local": {

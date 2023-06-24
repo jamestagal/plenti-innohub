@@ -1,0 +1,39 @@
+{
+    "image": {
+        "source": "media/blog-1.jpg",
+        "alt": "graffiti art on a building"
+    },
+    "author": {
+        "name": "Admin",
+        "link": ".",
+        "icon": ""
+    },
+    "publish": {
+        "date": "Feb 15, 2023",
+        "icon": ""
+    },
+    "category": {
+        "name": "Web Development"
+    },
+    "tags": [
+        "Business",
+        "IT",
+        "Tips",
+        "Design"
+    ],
+    "title": "How to Become a Successful Entry Level UX Designer",
+    "quote": {
+        "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "author": "Tom Cruise",
+        "icon": ""
+    },
+    "description": [
+		{ 
+			"paragraph": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat."
+		}
+	],
+    "search": {
+        "field": "Search",
+        "icon": ""
+    }
+}
